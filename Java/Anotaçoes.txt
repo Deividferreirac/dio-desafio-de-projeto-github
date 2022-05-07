@@ -1,0 +1,17 @@
+Motivo Para Estudar Java:
+
+– Aplicativos
+– Softwares
+– Jogos
+- Profissão
+
+Principais IDE's de Java:
+
+IntelliJ IDEA.
+NetBeans. 
+Eclipse.
+Blue J.
+
+Como escolher o IDE adequado para desenvolvimento?
+Na hora da escolha, é importante que você tenha em mente o que irá programar:
+Se é uma aplicação mobile (nativa ou híbrida) ou web, pois cada tipo de desenvolvimento irá impactar na escolha do IDE adequado.

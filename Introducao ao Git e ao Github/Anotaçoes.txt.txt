@@ -1,3 +1,34 @@
-https://git-scm.com/downloads
+- Link para download do git:
+https://git-scm.com/downloads 
 
-O git Bash é um terminal extendido para otimizar o uso do Git.
+
+Os conceitos do Git:
+
+Repositório;
+Os repositórios são os ambientes criados para armazenar seus códigos.
+
+Branch;
+Branch é o nome dado a uma versão (ramificação) do projeto. 
+
+Merge;
+Para unir as modificações feitas em um branch ao código original, utilizamos o comando merge.
+
+Fork;
+Quando um profissional desenvolvedor precisa começar a trabalhar em um projeto, seu primeiro passo é copiar este repositório para a sua máquina.
+
+
+- Principais comandos Git:
+
+Init: este comando dá origem a um repositório novo, local ou remoto, ou reinicializa um repositório já existente;
+Clone: este comando clona o código de um repositório para sua manipulação em outro ambiente;
+Commit: este comando move os arquivos da state area para um repositório local;
+Add: este comando adiciona um arquivo alterado a uma staging area, ou seja, o prepara para ser vinculado a um commit;
+Push: este comando envia arquivos de um repositório local para um repositório remoto. No GitHub, por exemplo;
+Pull: ao contrário do push, este comando traz um arquivo do repositório remoto para o repositório local.
+Merge: este comando serve para unir arquivos alterados ao arquivo original de um projeto. Em outras palavras, é ele quem une os branchs as commits.
+Log: este comando permite a visualização do histórico de commits de um arquivo ou usuário, ou o acesso de uma versão específica.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+- Para que serve o GitHub;
+O GitHub serve, fundamentalmente, para facilitar o controle de versões de um software ou aplicação.
